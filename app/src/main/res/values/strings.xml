@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Movie_DB_Java</string>
+    <string name="api_key">970313d0e11c3efc180608baa032f012</string>
 </resources>
